@@ -1,0 +1,11 @@
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\bin\Debug\MH212532-taller2.exe.config
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\bin\Debug\MH212532-taller2.exe
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\bin\Debug\MH212532-taller2.pdb
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532-taller2.csproj.AssemblyReference.cache
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532_taller2.Form1.resources
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532_taller2.Properties.Resources.resources
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532-taller2.csproj.GenerateResource.cache
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532-taller2.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532-taller2.exe
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532-taller2.pdb
+C:\Users\Lourdes\Documents\UDB\Ciclo2\DSP\Taller2\MH212532-taller2\MH212532-taller2\obj\Debug\MH212532_taller2.dashboardCuenta.resources
